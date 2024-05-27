@@ -1,2 +1,2 @@
 # Power-BI-Project
-Project using a sales database then showcasing your findings via a dashboard on Power Bi
+Using Power BI to display actionable insights from the sales database received.
